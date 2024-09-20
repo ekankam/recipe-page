@@ -8,7 +8,7 @@ import PreparationTime from "./PreparationTime";
 const Recipe = () => {
   return (
     <div className="bg-cc-white md:rounded-3xl max-w-[736px] h-full mx-auto overflow-hidden">
-      <div className="relative md:overflow-hidden md:pt-10 px-10">
+      <div className="relative md:overflow-hidden md:pt-10 md:px-10">
         <img
           src="/assets/images/image-omelette.jpeg"
           alt="omelette"
